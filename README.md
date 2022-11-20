@@ -1,2 +1,1 @@
-# Project-Library
-Library application
+# Boilerplate for the fullstack + redux

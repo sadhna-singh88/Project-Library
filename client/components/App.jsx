@@ -1,11 +1,11 @@
-import React, { useEffect } from 'react'
+import React from 'react'
+import Main from './Main'
+
 
 function App() {
-  useEffect(() => {}, [])
-
   return (
     <>
-      <p>Boilerplate</p>
+      <Main />
     </>
   )
 }

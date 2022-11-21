@@ -65,10 +65,14 @@
     "react-redux": "^7.2.5",
     "react-router-dom": "^6.2.2",
     "supertest": "^6.2.2",
+    "tailwindcss": "^3.2.4",
     "webpack": "^5.69.1",
     "webpack-cli": "^4.9.2"
   },
   "dependencies": {
+    "@fortawesome/free-regular-svg-icons": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "express": "^4.17.2",
     "knex": "^2.3.0",
     "pg": "^8.8.0",

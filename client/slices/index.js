@@ -1,9 +1,5 @@
-import { configureStore } from '@reduxjs/toolkit'
-
+import { combineReducers } from 'redux'
 // import stuff from './stuff'
-
-const store = configureStore({
-  reducer: {},
-})
-
-export default store
+import books from './books'
+// import { fetchOrders } from './orders'
+export default combineReducers({ books })
